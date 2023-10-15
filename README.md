@@ -3,7 +3,7 @@
 
  ```php
 <?php
-$discord = skyss0fly
+$discord = "skyss0fly";
 echo("My Discord Username is: " . $discord);
 ?>
 
