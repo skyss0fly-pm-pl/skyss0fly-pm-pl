@@ -15,7 +15,7 @@ echo("My Discord Username is: " . $discord . " And i am " . $age . " Years old f
 
 
 # What i Code:
-50% 𝙿𝚑𝙿
+40% 𝙿𝚑𝙿
 20% 𝙿𝚢𝚝𝚑𝚘𝚗
 20% 𝙷𝚝𝚖𝚕
-10% 𝙻𝚞𝚊
+20% 𝙻𝚞𝚊
