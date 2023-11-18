@@ -3,8 +3,10 @@
 
  ```php
 <?php
-$discord = "skyss0fly";
-echo("My Discord Username is: " . $discord);
+const $discord = "skyss0fly";
+const $age = 15;
+const $location = "Australia";
+echo("My Discord Username is: " . $discord . " And i am " . $age . " Years old from " . $location);
 ?>
 
 ```
