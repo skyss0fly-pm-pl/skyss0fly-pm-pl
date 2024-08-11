@@ -3,9 +3,16 @@
 
  ```php
 <?php
-const $discord = "skyss0fly";
-const $age = 16;
-const $location = "Australia";
+private $discord;
+private $age;
+private $location;
+
+public function aboutMe(): bool {
+$this->discord = "skyss0fly"
+$this->age = 16;
+$this->location = "Australia"
+}
+
 echo("My Discord Username is: " . $discord . " And i am " . $age . " Years old from " . $location);
 ?>
 
